@@ -1,5 +1,3 @@
-Here is the organized and improved README.md content for the Blulytix.ai Document Assistant project:
-
 # Blulytix.ai Document Assistant
 
 ## Introduction
